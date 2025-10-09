@@ -1,21 +1,54 @@
-<!--
+<p align="center">
+<img src="https://github.com/Chorus-Social/.github/blob/main/branding/Glow_Wireframe_Icon_Transparent_XL.png?raw=true" alt="Chorus Banner">
+</p>
 
-**Here are some ideas to get you started:**
+<h1 align="center">Welcome to the Chorus Network</h1>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+Tired of the noise? So are we.
+</p>
 
-![Chorus Icon](https://github.com/Chorus-Social/.github/blob/main/branding/Glow_Wireframe_Icon_Transparent_XL.png?raw=true)
+<p align="center">
+<strong>Chorus</strong> is a fresh start, a clean slate, a place to disrupt the throttling grasp of big tech on our very thoughts. It’s a network built on the belief that everyone deserves to be heard, not just the loudest voices in the room. This is a place to speak your mind, sing it from the hilltops, and find your own tune.
+</p>
 
-# Chorus Network
+<p align="center">
+We're building this in the open from day one, because transparency isn't just a feature—it's our foundation.
+</p>
 
-## What is Chorus?
-Chorus is a fresh start, a clean slate, something new to disrupt the throttling grasp of big tech on our very thoughts. Chorus is a place to speak your mind, sing it loud from the hilltops, anything and everything is welcome here (aside from purely malicious activities), if you can justify it, you can post it.
+Core Principles
 
-Chorus gives the power to the people, with a revolutionary new moderation model that does away with the traditional "moderators vs members" mantra that we've seen time and time again to no avail. You're the master of your own Chorus, you get a say in whether a post or comment is harmful. Chorus will not remove posts that are deemed harmful, instead these will be labelled as such. We will not quite our Chorus for anyone.
+Chorus is more than just a platform; it's a promise. We're guided by a few simple, unshakable beliefs:
 
-Speak your mind. Find your tune. **Join our Chorus.**
+🔒 True Anonymity: Your identity is your own. We use a simple, secure authentication key with no requirement for emails, passwords, or personal information.
+
+🗳️ Direct Democracy: Power to the people—literally. The community governs itself through a unique, transparent moderation system. No appointed moderators, no secret rules.
+
+📖 Open Platform: The entire network is built as an open API. We're not building a walled garden; we're providing the tools for you to build your own experiences.
+
+✨ Transparency: The moderation process is public, and the platform's development is completely open and documented. You're watching it happen right now!
+
+🌈 How to Get Involved
+
+You've found us at the very beginning of our journey, and we're so glad you're here. This is the perfect time to help shape the future of Chorus.
+
+Follow the Journey: Watch this space! We're building everything in public.
+
+Share Your Ideas: Have a thought, a suggestion, or a critique? We'd love to hear it. Open an issue in the relevant repository to start a conversation.
+
+Contribute Code: Feeling inspired? We welcome contributions from everyone. Check out our project boards and see what's on the roadmap.
+
+👩‍💻 The Chorus Ecosystem
+
+Chorus is a decoupled system designed for security, scalability, and openness. Here are the core components:
+
+Chorus Stage: This is the central backend API—the heart of the entire network, built with Python, FastAPI, and SQLAlchemy.
+
+Chorus Voice: The official flagship desktop client (coming soon!).
+
+Chorus Audience: A simple, read-only web viewer that will serve initially as the project's public landing page.
+
+Chorus Ticketbox: A single, secure webpage for generating new anonymous user keys.
+
+<h2 align="center">Speak your mind. Find your tune.</h2>
+<h1 align="center">Join our Chorus.</h1>

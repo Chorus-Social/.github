@@ -9,6 +9,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+![Chorus Banner](https://i.ibb.co/fsw9q5G/Glow-Wireframe-Banner-Transparent-L.png)
+
 ## <Logo>
 ### <Subtitle>
 Chorus is a fresh start, a clean slate, something new to disrupt the throttling grasp of big tech on our very thoughts. Chorus is a place to speak your mind, sing it loud from the hilltops, anything and everything is welcome here (aside from purely malicious activities), if you can justify it, you can post it.

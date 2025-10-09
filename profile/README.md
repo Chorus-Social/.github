@@ -8,6 +8,11 @@
 Tired of the noise? So are we.
 </p>
 
+<p alight="center">
+⚠️ A Note on Our Journey:
+You've found us at the very beginning! We believe in building in the open, and that means you're seeing the project in its earliest stages. Many of the features and concepts described here are part of our vision and are not yet implemented. We're so excited to build this with you, and we appreciate your patience as we bring Chorus to life.
+</p>
+
 <p align="center">
 <strong>Chorus</strong> is a fresh start, a clean slate, a place to disrupt the throttling grasp of big tech on our very thoughts. It’s a network built on the belief that everyone deserves to be heard, not just the loudest voices in the room. This is a place to speak your mind, sing it from the hilltops, and find your own tune.
 </p>

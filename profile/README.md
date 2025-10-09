@@ -53,7 +53,7 @@ Chorus is a decoupled system designed for security, scalability, and openness. H
 
 Chorus Stage: This is the central backend API—the heart of the entire network, built with Python, FastAPI, and SQLAlchemy.
 
-Chorus Voice: The official flagship desktop client (coming soon!).
+Chorus Voice: An official client, still very early in conceptualisation.
 
 Chorus Audience: A simple, read-only web viewer that will serve initially as the project's public landing page.
 

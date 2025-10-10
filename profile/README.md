@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://github.com/Chorus-Social/.github/blob/main/branding/Glow_Wireframe_Icon_Transparent_XL.png?raw=true" alt="Chorus Banner">
+  <picture>
+    <source srcasset="https://raw.githubusercontent.com/Chorus-Social/.github/refs/heads/main/branding/web/Glow_Wireframe_Banner_XL.avif">
+    <source srcasset="https://raw.githubusercontent.com/Chorus-Social/.github/refs/heads/main/branding/web/Glow_Wireframe_Banner_XL.webp">
+  </picture> 
 </p>
 
 <h1 align="center">Welcome to the Chorus Network</h1>

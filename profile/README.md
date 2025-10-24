@@ -51,11 +51,15 @@ Contribute Code: Feeling inspired? We welcome contributions from everyone. Check
 
 Chorus is a decoupled and modular system designed for security, scalability, and openness. Here are the core components:
 
-🎭 Chorus Stage: This is the central backend API—the heart of the entire network, built with Python, FastAPI, and SQLAlchemy.
+🎭 Chorus Stage: This is the API that clients will interact with.
 
-🎙️ Chorus Voice: A planned official client, still very early in conceptualisation.
+🎼 Chorus Bridge: This the federation network layer to connect instances of Stage.
 
-📺 Chorus Audience: A simple, read-only web viewer that will serve initially as the project's public landing page; since the network will be closed for people who don't hold accounts, to protect our users.
+🪄 Conductor: This is the consensus layer that keeps Stage instances in check.
+
+🎙️ Voice: A planned official client, still very early in conceptualisation.
+
+📺 Audience: A simple, read-only web viewer that will serve initially as the project's public landing page; since the network will be closed for people who don't hold accounts, to protect our users.
 
 <h2 align="center">Speak your mind. Find your tune.</h2>
 <h1 align="center">Join our Chorus.</h1>
